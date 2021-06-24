@@ -1,5 +1,5 @@
 # CS111.L21
-## Lexical & Syntax analysis
+## SLexical & Syntax analysis
 
 * **Lecturers: Trịnh Quốc Sơn**
 * **Authors : [Ngô Gia Kiệt](https://github.com/twice1st), [Đào Văn Tài](https://github.com/Uranium1901)**
